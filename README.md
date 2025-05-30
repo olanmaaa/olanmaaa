@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olanmaaa
-- 👀 I’m interested in a wide variety of topics
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in learning how to combine technology in healthcare research
+- 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on nothing (for now)
 - 📫 How to reach me ...ummmm
 
