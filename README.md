@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @olanmaaa
-- 👀 I’m interested in learning how to combine technology in healthcare research
-- 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on nothing (for now)
-- 📫 How to reach me ...ummmm
+- 👋 Hi, I am @olanmaaa
+- I’m interested in research that combines computational technology in healthcare research
+- I am currently learning bioinformatics and attempting to build a portfolio 
+
+
 
 <!---
 olanmaaa/olanmaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
