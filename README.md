@@ -1,6 +1,7 @@
 - 👋 Hi, I am @olanmaaa
-- I’m interested in research that combines computational technology in healthcare research
-- I am currently learning bioinformatics and attempting to build a portfolio 
+- I’m interested in research that combines computational techniques in advancing healthcare research 🧬
+- I am on the path to getting great at bioinformatics and using Github as a portfolio for that journey
+- Currently Learning 💻: R Programming 
 
 
 
