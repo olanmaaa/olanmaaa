@@ -14,7 +14,7 @@
 
 ## 🔬 Research Interests
 - Bioinformatics & Genomics
-- Drug Design & Molecular Docking
+- Drug Design & Discovery
 - Computational Healthcare Solutions
 
 ## 💼 Relevant Experience & Training
